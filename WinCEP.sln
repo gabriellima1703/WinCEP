@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCEP", "WinCEP\WinCEP.csproj", "{329BE6B7-F401-4FCD-9F90-956C43457A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEPBLL", "CEPBLL\CEPBLL.csproj", "{010340E2-68BC-4755-90BF-8ECAB908059F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329BE6B7-F401-4FCD-9F90-956C43457A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329BE6B7-F401-4FCD-9F90-956C43457A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329BE6B7-F401-4FCD-9F90-956C43457A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329BE6B7-F401-4FCD-9F90-956C43457A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010340E2-68BC-4755-90BF-8ECAB908059F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010340E2-68BC-4755-90BF-8ECAB908059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010340E2-68BC-4755-90BF-8ECAB908059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010340E2-68BC-4755-90BF-8ECAB908059F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA41C594-3C0C-4E7C-BA62-50F120AB51D4}
+	EndGlobalSection
+EndGlobal
